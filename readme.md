@@ -1,1 +1,1 @@
-database 
+ECHO is on.
